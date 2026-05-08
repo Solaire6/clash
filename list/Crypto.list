@@ -27,3 +27,57 @@ DOMAIN-SUFFIX,bybit.com
 # gate.com
 DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gate.io
+
+# === Binance ===
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binancefuture.com
+
+# === Bybit ===
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+
+# === OKX ===
+DOMAIN-SUFFIX,okx.com
+
+# === Coinbase INTX ===
+DOMAIN-SUFFIX,coinbase.com
+
+# === Gate ===
+DOMAIN-SUFFIX,gateio.ws
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+
+# === MEXC ===
+DOMAIN-SUFFIX,mexc.com
+
+# === Kraken Futures ===
+DOMAIN-SUFFIX,kraken.com
+
+# === Bitget ===
+DOMAIN-SUFFIX,bitget.com
+
+# === Hyperliquid ===
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,hyperliquid-testnet.xyz
+
+# === Aster ===
+DOMAIN-SUFFIX,asterdex.com
+
+# === edgeX ===
+DOMAIN-SUFFIX,edgex.exchange
+
+# === Lighter ===
+DOMAIN-SUFFIX,zklighter.elliot.ai
+
+# === GRVT ===
+DOMAIN-SUFFIX,grvt.io
+
+# === Extended ===
+DOMAIN-SUFFIX,extended.exchange
+
+# === Derive (Lyra v2) ===
+DOMAIN-SUFFIX,lyra.finance
+DOMAIN-SUFFIX,conduit.xyz
+
+# === ApeX Omni ===
+DOMAIN-SUFFIX,apex.exchange
