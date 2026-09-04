@@ -67,6 +67,9 @@ DOMAIN-SUFFIX,whoisip.me
 DOMAIN-SUFFIX,ipaddress.me
 DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
+DOMAIN-SUFFIX,ipkk.com
+DOMAIN-SUFFIX,fuck-claude.vercel.app
+DOMAIN-SUFFIX,ip.skk.moe
 
 
 IP-CIDR,74.125.250.129/24,no-resolve
