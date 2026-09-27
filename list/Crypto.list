@@ -68,8 +68,9 @@ DOMAIN-SUFFIX,edgex.exchange
 
 # === Lighter ===
 DOMAIN-SUFFIX,zklighter.elliot.ai
+DOMAIN-SUFFIX,*.zklighter.elliot.ai
 DOMAIN-SUFFIX,lighter.xyz
-DOMAIN-SUFFIX,firefox-portal-detection.com
+DOMAIN-SUFFIX,*.lighter.xyz
 
 # === GRVT ===
 DOMAIN-SUFFIX,grvt.io
