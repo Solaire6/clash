@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,edgex.exchange
 # === Lighter ===
 DOMAIN-SUFFIX,zklighter.elliot.ai
 DOMAIN-SUFFIX,lighter.xyz
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 
 # === GRVT ===
 DOMAIN-SUFFIX,grvt.io
