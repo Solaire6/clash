@@ -26,7 +26,7 @@ DOMAIN,anthropic-com.ghost.io
 
 
 # ======== Cloudflare 登录挑战 ========
-DOMAIN-SUFFIX,challenges.cloudflare.com
+# DOMAIN-SUFFIX,challenges.cloudflare.com
 
 
 # ======== 监控 / 遥测：Datadog ========
